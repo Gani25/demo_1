@@ -7,3 +7,4 @@ Hello
 |SR No|Full Name|
 |:----:|:----:|
 |1|Demo|
+|2|Variable in Diff Branch|
